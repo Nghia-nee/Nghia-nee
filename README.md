@@ -1,8 +1,8 @@
 # 💫About Me :
-🐱‍👤 Made in Vietnam \n
-🙄 Living in VNU-UIT \n
-👨‍💻 Noob in information security field \n
-🤔 Looking for something interesting to make life less boring \n
-🤦‍♂️ Thanks god the Deadline was out of date \n
-📢 I have no language, i laugh hahaha \n
+# 🐱‍👤 Made in Vietnam 
+# 🙄 Living in VNU-UIT 
+# 👨‍💻 Noob in information security field 
+# 🤔 Looking for something interesting to make life less boring 
+# 🤦‍♂️ Thanks god the Deadline was out of date 
+# 📢 I have no language, i laugh hahaha 
 
